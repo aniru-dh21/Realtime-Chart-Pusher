@@ -9,3 +9,10 @@
 3. Create an app for your channel and then find the App Keys which you need to put in your `.env.local` file
 
 See the example here:
+
+```bash
+NEXT_SECRET_PUSHER_APP_ID = "yourid"
+NEXT_SECRET_PUSHER_KEY = "yourkey"
+NEXT_SECRET_PUSHER_SECRET = "yoursecret"
+NEXT_SECRET_PUSHER_CLUSTER = "yourlocation"
+```
