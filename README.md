@@ -26,3 +26,5 @@ npm install
 # or
 yarn install
 ```
+
+Then, run the development server:
