@@ -20,3 +20,9 @@ NEXT_SECRET_PUSHER_CLUSTER = "yourlocation"
 ## Getting Started
 
 First, install the project dependencies with this command:
+
+```bash
+npm install
+# or
+yarn install
+```
