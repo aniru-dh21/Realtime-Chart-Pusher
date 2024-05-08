@@ -16,3 +16,5 @@ NEXT_SECRET_PUSHER_KEY = "yourkey"
 NEXT_SECRET_PUSHER_SECRET = "yoursecret"
 NEXT_SECRET_PUSHER_CLUSTER = "yourlocation"
 ```
+
+## Getting Started
